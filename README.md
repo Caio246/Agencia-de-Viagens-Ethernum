@@ -22,5 +22,3 @@ Projeto Original utilizando recursos de interface usando React (Renderização, 
 Para instalar as dependencias só é preciso executar o comando: `npm install`
 
 O dar start no server e nos processos para desenvolvimento é necessário rodar o comando: `npm start`
-
-Agencia-de-Viagens-Ethernum
