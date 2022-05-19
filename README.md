@@ -2,7 +2,7 @@
 
 Projeto Original utilizando recursos de interface usando React (Renderização, componentes, states, router, flux, redux), relacionamento entre tabelas do Banco de Dados, manipulação de JSON e Back End com Java Web Services REST - HTTP, XML e JSON.
 
-### TECNOLOGIAS E FERRAMENTAS UTILIZADAS
+## TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 
 
 - Front-end:  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> e <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">.
